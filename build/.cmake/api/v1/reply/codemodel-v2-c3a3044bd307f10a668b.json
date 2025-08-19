@@ -1,0 +1,180 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "third_party/glfw",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.glfw-Debug-11a51223cb70fbc45026.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "third_party/glfw",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "third_party/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.glfw.src-Debug-e4754751d8f52ee58009.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "third_party/glfw/src",
+					"targetIndexes" : 
+					[
+						1,
+						4
+					]
+				},
+				{
+					"build" : "third_party/glfw/docs",
+					"jsonFile" : "directory-third_party.glfw.docs-Debug-eb236ae29e16c5efe682.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "third_party/glfw/docs"
+				},
+				{
+					"build" : "apps/Editor",
+					"jsonFile" : "directory-apps.Editor-Debug-a8c99dfa2c5e212b13dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "apps/Editor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						4
+					],
+					"name" : "DancoreEngine",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "dancore_editor::@b65b104346eb7c985249",
+					"jsonFile" : "target-dancore_editor-Debug-d2d4cbdc48874b90074b.json",
+					"name" : "dancore_editor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@d5fdcda1ec52eb23cf38",
+					"jsonFile" : "target-glfw-Debug-74c3483662116c989254.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "imgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imgui-Debug-203395aa29d580a5930b.json",
+					"name" : "imgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@174ad505b4e557f742c8",
+					"jsonFile" : "target-uninstall-Debug-dabaafba9675fb0d8a38.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "update_mappings::@d5fdcda1ec52eb23cf38",
+					"jsonFile" : "target-update_mappings-Debug-38c89d57d45571263232.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/idenway/Documents/Dancore-Engine/build",
+		"source" : "/Users/idenway/Documents/Dancore-Engine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

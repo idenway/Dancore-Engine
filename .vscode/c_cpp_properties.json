@@ -1,0 +1,23 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "macOS",
+      "includePath": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/engine",
+        "${workspaceFolder}/third_party/glfw/include",
+        "${workspaceFolder}/third_party/imgui",
+        "${workspaceFolder}/third_party/imgui/backends",
+        "/usr/local/include",
+        "/Users/idenway/VulkanSDK/1.4.321.0/macOS/include"
+      ],
+      "defines": ["VK_USE_PLATFORM_METAL_EXT"],
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c17",
+      "cppStandard": "c++23",
+      "intelliSenseMode": "macos-clang-x64",
+      "compileCommands": "${workspaceFolder}/compile_commands.json"
+    }
+  ]
+}

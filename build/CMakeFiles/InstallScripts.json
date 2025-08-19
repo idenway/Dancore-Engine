@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/idenway/Documents/Dancore-Engine/build/cmake_install.cmake",
+		"/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/cmake_install.cmake",
+		"/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src/cmake_install.cmake",
+		"/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/docs/cmake_install.cmake",
+		"/Users/idenway/Documents/Dancore-Engine/build/apps/Editor/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,176 @@
+[
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o CMakeFiles/imgui.dir/third_party/imgui/imgui.cpp.o -c /Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui.cpp",
+  "output": "CMakeFiles/imgui.dir/third_party/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o CMakeFiles/imgui.dir/third_party/imgui/imgui_draw.cpp.o -c /Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui_draw.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/imgui.dir/third_party/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o CMakeFiles/imgui.dir/third_party/imgui/imgui_tables.cpp.o -c /Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui_tables.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/imgui.dir/third_party/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o CMakeFiles/imgui.dir/third_party/imgui/imgui_widgets.cpp.o -c /Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui_widgets.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/imgui.dir/third_party/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_glfw.cpp.o -c /Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_vulkan.cpp.o -c /Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends/imgui_impl_vulkan.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends/imgui_impl_vulkan.cpp",
+  "output": "CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_vulkan.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/context.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/context.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/init.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/init.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/init.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/input.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/input.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/input.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/monitor.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/monitor.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/platform.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/platform.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/platform.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/vulkan.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/vulkan.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/window.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/window.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/window.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/egl_context.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/egl_context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/osmesa_context.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/osmesa_context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/null_init.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_init.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_init.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_monitor.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_monitor.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/null_window.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_window.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_window.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_joystick.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/null_joystick.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_time.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_time.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/posix_module.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/posix_module.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/posix_thread.c",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/posix_thread.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -x objective-c -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_init.m",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_init.m",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -x objective-c -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_joystick.m",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_joystick.m",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -x objective-c -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_monitor.m",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_monitor.m",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -x objective-c -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_window.m",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/cocoa_window.m",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src -I/Users/idenway/Documents/Dancore-Engine/build/third_party/glfw/src -x objective-c -g -std=c99 -arch x86_64 -fPIC -Wall -o third_party/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/nsgl_context.m",
+  "file": "/Users/idenway/Documents/Dancore-Engine/third_party/glfw/src/nsgl_context.m",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/engine -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o apps/Editor/CMakeFiles/dancore_editor.dir/main.cpp.o -c /Users/idenway/Documents/Dancore-Engine/apps/Editor/main.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/apps/Editor/main.cpp",
+  "output": "apps/Editor/CMakeFiles/dancore_editor.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/idenway/Documents/Dancore-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/idenway/Documents/Dancore-Engine -I/Users/idenway/Documents/Dancore-Engine/engine -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui -I/Users/idenway/Documents/Dancore-Engine/third_party/imgui/backends -I/Users/idenway/Documents/Dancore-Engine/third_party/glfw/include -g -std=gnu++2b -arch x86_64 -o apps/Editor/CMakeFiles/dancore_editor.dir/__/__/engine/ui/editor/EditorUI.cpp.o -c /Users/idenway/Documents/Dancore-Engine/engine/ui/editor/EditorUI.cpp",
+  "file": "/Users/idenway/Documents/Dancore-Engine/engine/ui/editor/EditorUI.cpp",
+  "output": "apps/Editor/CMakeFiles/dancore_editor.dir/__/__/engine/ui/editor/EditorUI.cpp.o"
+}
+]
